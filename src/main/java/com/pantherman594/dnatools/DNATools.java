@@ -189,7 +189,7 @@ public class DNATools {
     }
 
     @SuppressWarnings("unused")
-    private enum AminoAcids {
+    private enum AminoAcids { // Created with reference to R. Akeson's "DNA Dictionary"
         PHE("Phenylalanine", "TTT", "TTC"),
         LEU("Leucine", "CTT", "CTC", "CTA", "CTG"),
         ILE("Isoleucine", "ATT", "ATC", "ATA"),
